@@ -1,2 +1,2 @@
 # MyMailSignature
-This repository contains my main signature.
+This repository contains my mail signature.
